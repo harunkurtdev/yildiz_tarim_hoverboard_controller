@@ -5,3 +5,6 @@ you download your workspace [hoverboard-driver](https://github.com/alex-makarov/
 
 
 ![hoverboard_image](https://raw.githubusercontent.com/NiklasFauth/hoverboard-firmware-hack/master/pinout.png)
+
+
+![hoverboard_4_image](https://beta.ivc.no/wiki/images/thumb/2/2d/Bobby_car_hoverboard_upgrade_overview.png/600px-Bobby_car_hoverboard_upgrade_overview.png)
