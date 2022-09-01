@@ -3,6 +3,13 @@ you control with this package mavros and hoverbord-driver with ros hoverboard-dr
 
 you download your workspace [hoverboard-driver](https://github.com/alex-makarov/hoverboard-driver) and mavros for pixhawk or ardupilot
 
+```mermaid
+graph LR
+K[Joy] --> D{hoverboard_controller}
+A[mavros] --> D
+D --> E((hoverboard_driver))
+```
+
 
 ![hoverboard_image](https://raw.githubusercontent.com/NiklasFauth/hoverboard-firmware-hack/master/pinout.png)
 
