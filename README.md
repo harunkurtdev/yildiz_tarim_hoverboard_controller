@@ -5,8 +5,8 @@ you download your workspace [hoverboard-driver](https://github.com/alex-makarov/
 
 ```mermaid
 graph LR
-K[Joy] --> D{hoverboard_controller}
-A[mavros] --> D
+K[Joy] --joy_axes--> D{hoverboard_controller}
+A[mavros] --pixhawk or apm mavros servo pinout--> D
 D --> E((hoverboard_driver))
 ```
 
